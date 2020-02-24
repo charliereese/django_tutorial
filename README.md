@@ -9,3 +9,4 @@ Contains tutorial code + exploration code / extensions.
 - Install dependencies: `pipenv install`
 - Start server: `pipenv run python manage.py runserver_plus`
 - Start shell / console: `pipenv run python manage.py shell_plus` 
+- Run tests: `pipenv run python manage.py test polls`
